@@ -1,6 +1,6 @@
 # NC-SI Dissector
 
-A wireshark dissector plugin for NC-SI packet, written in Lua.
+A wireshark dissector plugin for NC-SI(Network Controller Sideband Interface)(DSP0222 v1.0.1) packet, written in Lua.
 
 
 ## Usage
